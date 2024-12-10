@@ -22,7 +22,7 @@
     width: 100%;
     background-color: #fff;
     position: relative;
-    border: 2px solid red;
+    /* border: 2px solid red;ntainer */
 }
 .box{
     width: 100%;
@@ -271,3 +271,4 @@
 .hide{
     display: none;
 }
+ 
